@@ -1,0 +1,12 @@
+.compteur {
+    width:80px;
+    height:80px;
+    border-radius:50%;
+    display:flex;
+    font-size:2rem;
+    align-items:center;
+    justify-content:center;
+    border:3px solid black;
+     background:rgba(154, 226, 108, 0.85);
+    cursor: pointer;
+    }
